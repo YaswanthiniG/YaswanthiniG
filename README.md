@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yaswanthini Goriparthi. You can call me Yash.
 - 👀 I’m interested in creating responsive web pages.
-- 🌱 I’m currently learning web technologies such as Angular Js, JavaScript, Jquery,BootStrap,HTML,CSS
+- 🌱 Skilled in web technologies such as Angular, JavaScript, Jquery,BootStrap,HTML,CSS,SQL,C
 - 💞️ I’m looking to collaborate and leverage my experience building responsive and scalable web apps to solve interesting problems that delight end users
 - 📫 Get in touch with my mail Id yaswanthini9657@gmail.com
 
